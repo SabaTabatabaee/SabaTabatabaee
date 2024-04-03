@@ -12,5 +12,8 @@ I'm an Electrical Engineering PhD student at UMD. My research interests are in t
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/a7788e074a00b2faa78a3d5d74a643522dcbb5d7267a96a3648f2b772d95702f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e61636f6e64612f616e61636f6e64612d6f726967696e616c2e737667" width="36" height="36" alt="Anaconda" />
   </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/080b6251a39ba5ac7b4608381cf74712f96a2f77735dfa822204e3c85291830d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c617465782f6c617465782d6f726967696e616c2e737667" width="36" height="36" alt="LaTeX" />
+  </a>
 </p>
 
