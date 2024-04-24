@@ -1,6 +1,5 @@
 # 👩🏻‍💻 About Me
-I'm an Electrical Engineering graduate student at UMD. My research interests are in the fields of NLP, Deep Learning, Multimodal Signal Processing, Big Data Analysis, and Computational Neuroscience. 
-
+I'm an Electrical Engineering graduate student at UMD.
 # 🚀 Languages and Tools
 
 <p align="left">
