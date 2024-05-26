@@ -1,5 +1,5 @@
 # 👩🏻‍💻 About Me
-I'm an Electrical Engineering graduate student at UMD.
+I'm an Electrical Engineering graduate student at UH.
 # 🚀 Languages and Tools
 
 <p align="left">
