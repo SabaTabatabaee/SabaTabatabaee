@@ -1,5 +1,5 @@
 # 👩🏻‍💻 About Me
-I'm a Computer Engineering PhD student at UH.
+I'm a Computer Engineering PhD student at UH. I'm interested in Artificial Intelligence in Medicine and Computer Vision.
 # 🚀 Languages and Tools
 
 <p align="left">
