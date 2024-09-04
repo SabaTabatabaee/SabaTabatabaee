@@ -1,6 +1,6 @@
 # 👩🏻‍💻 About Me
 
-I am a PhD in Electrical and Computer Engineering at the University of Maryland, College Park (UMD). My research interests include Speech Signal Processing, Speaker Identification (verification),and Speech Inversion Systems.
+I am a PhD in Electrical and Computer Engineering at the University of Maryland, College Park (UMD). My primary research interests are in the fields of deep learning and speech processing.
 
 # 🚀 Languages and Tools
 
